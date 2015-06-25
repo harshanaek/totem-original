@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-/* CSS Document */
+/* CSS Documentsasaas */
 
 .page-wrapper {
 
@@ -26,10 +26,10 @@ padding-left: 0px;
 
 body{
 
-    
+
 
     font-family: 'Open Sans', sans-serif;
-	
+
 	position: relative;
 
 	overflow-x:hidden;
@@ -122,7 +122,7 @@ top: 10px;
 }
 
 /*Nav styles end*/
-	
+
 /*About us start*/
 .about-us h2{
 	text-align:center;
@@ -135,7 +135,7 @@ top: 10px;
 text-align:center;
 background-color:#f49037;
 padding: 5px;
-border-radius:5px;	
+border-radius:5px;
 }
 .about-readmore a{
 color:#FFF;
@@ -217,7 +217,7 @@ text-decoration:none;
 }
 .box-styles{
 	border-left:1px solid #445062;
-	
+
 }
 
 .overview-text{
@@ -247,11 +247,11 @@ font-weight: 500;
 .footer-text i{
 	color:#FFF;
 	font-size: 22px;
-	
+
 }
 .social{
 	padding: 28px 0;
-	
+
 }
 .contact{
 	padding-left:5px;
@@ -265,7 +265,3 @@ font-weight: 500;
 .fa-google-plus:hover{
 	color:#DC4A38;
 }
-
-
-
-
